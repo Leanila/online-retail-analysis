@@ -1,4 +1,4 @@
-# SQL Analysis Report — Online Retail
+# SQL Analysis Report - Online Retail
 
 ## Project Overview
 
